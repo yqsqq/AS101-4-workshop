@@ -2,3 +2,7 @@ fileignoreconfig:
 - filename: web/danger.pem
   checksum: 0202a695946add2fd16b8f7068e264e49d4a3fc25080a319e9c2a49b802b4768
 version: ""
+fileignoreconfig:
+- filename: web/fack_private_key
+  checksum: 136688563390f28d772cbd4cecc7eec763a4647d749f812cada2de8b80869dff
+version: ""
